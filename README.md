@@ -2,6 +2,7 @@
 #### Investigate the Data
 The first thing I did was open the file in Sublime Text to understand the file format. This let me know the data was tab delimited and had a header row.
 
+I used a Jupyter Notebook for the next steps. You can find that notebook here:
 [https://github.com/wdbroen/shootproof/blob/master/Data%20Investigation.ipynb](https://github.com/wdbroen/shootproof/blob/master/Data%20Investigation.ipynb)
 
 I loaded the data into a Pandas Dataframe for a high level understanding of what was going on in the data.
