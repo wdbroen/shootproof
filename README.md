@@ -52,6 +52,15 @@ I used Tableau as my data visualization tool. The dashboard is available here:
 I used the created *item_category* field to bucket similar items in order to have a manageable number of items on a graph. The 3 metrics are easily sortable to quick identify which categories are responsible for the most revenue, order counts, or revenue per order.
 
 The other dashboards show where customers are ordering from at either a Global or United States view. The United States view allows the user to select to measure $ or # of orders.
+
+When end users are involved I like to create dashboards using the INSIGHT project management style. It is essentially the Agile process using a forced acronym.
+ - Identify Question
+ - Name KPIs
+ - Shape Data
+ - Initial Concept
+ - Gather Feedback
+ - Hone Dashboard
+ - Tell the Story
 ***
 #### Actionable Insights
 This was primarily a descriptive analysis due the available data points. 
